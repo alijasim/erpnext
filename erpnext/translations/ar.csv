@@ -203,7 +203,7 @@ Already record exists for the item {0},يوجد سجل للصنف {0},
 Alternate Item,صنف بديل,
 Alternative item must not be same as item code,يجب ألا يكون الصنف البديل هو نفسه رمز الصنف,
 Amended From,معدل من,
-Amount,كمية,
+Amount,القيمة,
 Amount After Depreciation,القيمة بعد الاستهلاك,
 Amount of Integrated Tax,مقدار الضريبة المتكاملة,
 Amount of TDS Deducted,مبلغ TDS المقتطع,
@@ -433,7 +433,7 @@ C-form is not applicable for Invoice: {0},C-النموذج لا ينطبق عل�
 CEO,المدير التنفيذي,
 CESS Amount,مبلغ CESS,
 CGST Amount,مبلغ CGST,
-CRM,إدارة علاقات الزبائن,
+CRM,إدارة علاقة العملاء,
 CWIP Account,حساب CWIP,
 Calculated Bank Statement balance,حساب رصيد الحساب المصرفي,
 Calls,مكالمات هاتفية,
@@ -451,7 +451,7 @@ Cancel Material Visit {0} before cancelling this Warranty Claim,إلغاء ال�
 Cancel Material Visits {0} before cancelling this Maintenance Visit,إلغاء المواد الخاصة بالزيارة {0} قبل إلغاء زيارة الصيانة هذه,
 Cancel Subscription,إلغاء الاشتراك,
 Cancel the journal entry {0} first,قم بإلغاء إدخال دفتر اليومية {0} أولاً,
-Canceled,ألغيت,
+Canceled,ملغى,
 "Cannot Submit, Employees left to mark attendance",لا يمكن إرسال ، ترك الموظفين لوضع علامة الحضور,
 Cannot be a fixed asset item as Stock Ledger is created.,لا يمكن أن يكون عنصر الأصول الثابتة كما يتم إنشاء دفتر الأستاذ.,
 Cannot cancel because submitted Stock Entry {0} exists,لا يمكن الإلغاء لان هناك تدوينات مخزون مقدمة {0} موجوده,
@@ -720,7 +720,7 @@ Currency is required for Price List {0},العملة مطلوبة لقائمة �
 Currency of the Closing Account must be {0},عملة الحساب الختامي يجب أن تكون {0},
 Currency of the price list {0} must be {1} or {2},العملة من قائمة الأسعار {0} يجب أن تكون {1} أو {2},
 Currency should be same as Price List Currency: {0},يجب أن تكون العملة مماثلة لعملة قائمة الأسعار: {0},
-Current,تيار,
+Current,الحالي,
 Current Assets,أصول متداولة,
 Current BOM and New BOM can not be same,فاتورة المواد الحالية وفاتورة المواد الجديدة لايمكن أن يكونوا نفس الفاتورة\n<br>\nCurrent BOM and New BOM can not be same,
 Current Job Openings,فرص العمل الحالية,
@@ -875,7 +875,7 @@ Donor,الجهات المانحة,
 Donor Type information.,المانح نوع المعلومات.,
 Donor information.,معلومات الجهات المانحة.,
 Download JSON,تحميل JSON,
-Draft,مشروع,
+Draft,مسودة,
 Drop Ship,إسقاط الشحن,
 Drug,الادوية,
 Due / Reference Date cannot be after {0},تاريخ الاستحقاق أو المرجع لا يمكن أن يكون بعد {0},
@@ -926,7 +926,7 @@ Employee ID,هوية الموظف,
 Employee Lifecycle,دورة حياة الموظف,
 Employee Name,اسم الموظف,
 Employee Promotion cannot be submitted before Promotion Date ,لا يمكن تقديم ترقية الموظف قبل تاريخ العرض,
-Employee Referral,إحالة موظف,
+Employee Referral,ترشيح موظف,
 Employee Transfer cannot be submitted before Transfer Date ,لا يمكن تقديم نقل الموظف قبل تاريخ النقل,
 Employee cannot report to himself.,الموظف لا يمكن أن يقدم تقريرا إلى نفسه.\n<br>\nEmployee cannot report to himself.,
 Employee relieved on {0} must be set as 'Left',الموظف الذي ترك العمل في {0} يجب أن يتم تحديده ' مغادر ',
@@ -1095,7 +1095,7 @@ From Datetime,من (التاريخ والوقت),
 From Delivery Note,من اشعار التسليم,
 From Fiscal Year,من السنة المالية,
 From GSTIN,من GSTIN,
-From Party Name,من اسم الحزب,
+From Party Name,من الطرف,
 From Pin Code,من الرقم السري,
 From Place,من المكان,
 From Range has to be less than To Range,(من المدى) يجب أن يكون أقل من (إلى المدى),
@@ -1170,7 +1170,7 @@ Gross Profit / Loss,الربح الإجمالي / الخسارة,
 Gross Purchase Amount,اجمالي مبلغ المشتريات,
 Gross Purchase Amount is mandatory,مبلغ الشراء الإجمالي إلزامي\n<br>\nGross Purchase Amount is mandatory,
 Group by Account,مجموعة بواسطة حساب,
-Group by Party,مجموعة حسب الحزب,
+Group by Party,مجموعة حسب نوع الطرف,
 Group by Voucher,المجموعة بواسطة قسيمة,
 Group by Voucher (Consolidated),مجموعة بواسطة قسيمة (الموحدة),
 Group node warehouse is not allowed to select for transactions,لا يسمح مستودع عقدة مجموعة لتحديد للمعاملات,
@@ -1333,8 +1333,8 @@ Is Default,افتراضي,
 Is Existing Asset,هل أصل موجود,
 Is Frozen,مجمدة,
 Is Group,هل مجموعة,
-Issue,المشكلات,
-Issue Material,قضية المواد,
+Issue,إصدار/صرف,
+Issue Material,صرف المواد,
 Issued,نشر,
 Issues,قضايا,
 It is needed to fetch Item Details.,هناك حاجة لجلب تفاصيل البند.,
@@ -1458,8 +1458,8 @@ Leaves per Year,الأجزات في السنة,
 Ledger,حساب الاستاد,
 Legal,قانوني,
 Legal Expenses,نفقات قانونية,
-Letter Head,ترئيس الرسالة,
-Letter Heads for print templates.,رؤس الرسائل لقوالب الطباعة.,
+Letter Head,ترويسة الخطاب,
+Letter Heads for print templates.,قوالب ترويس الخطابات للطباعة,
 Level,المستوى,
 Liability,الخصوم,
 License,رخصة,
@@ -1532,8 +1532,8 @@ Mapping,رسم الخرائط,
 Mapping Type,نوع رسم الخرائط,
 Mark Absent,تسجيل غياب,
 Mark Attendance,تسجيل الحضور,
-Mark Half Day,حدد كنصف يوم,
-Mark Present,حدد كحضور,
+Mark Half Day,تحضير نصف يوم,
+Mark Present,تسجيل حضور,
 Marketing,التسويق,
 Marketing Expenses,نفقات تسويقية,
 Marketplace,السوق,
@@ -1712,7 +1712,7 @@ No items to be received are overdue,لا توجد عناصر يتم استلام
 No material request created,لم يتم إنشاء طلب مادي,
 No more updates,لا مزيد من التحديثات,
 No of Interactions,لا من التفاعلات,
-No of Shares,عدد األسهم,
+No of Shares,عدد الأسهم,
 No pending Material Requests found to link for the given items.,لم يتم العثور على طلبات المواد المعلقة للربط للعناصر المحددة.,
 No products found,لا توجد منتجات,
 No products found.,لم يتم العثور على منتجات.,
@@ -1847,7 +1847,7 @@ Overdue,تأخير,
 Overlap in scoring between {0} and {1},التداخل في التسجيل بين {0} و {1},
 Overlapping conditions found between:,الشروط المتداخله التي تم العثور عليها بين:\n<br>\nOverlapping conditions found between:,
 Owner,مالك,
-PAN,مقلاة,
+PAN,PAN,
 POS,نقطة البيع,
 POS Profile,الملف الشخصي لنقطة البيع,
 POS Profile is required to use Point-of-Sale,مطلوب بوس الشخصي لاستخدام نقطة البيع,
@@ -1870,7 +1870,7 @@ Partially Received,تلقى جزئيا,
 Party,الطرف المعني,
 Party Name,اسم الطرف,
 Party Type,نوع الطرف,
-Party Type and Party is mandatory for {0} account,نوع الطرف والحزب إلزامي لحساب {0},
+Party Type and Party is mandatory for {0} account,الطرف ونوعه إلزامي للحساب {0},
 Party Type is mandatory,حقل نوع المستفيد إلزامي\n<br>\nParty Type is mandatory,
 Party is mandatory,حقل المستفيد إلزامي\n<br>\nParty is mandatory,
 Password,كلمة السر,
@@ -2178,7 +2178,7 @@ Process Day Book Data,عملية دفتر اليوم البيانات,
 Process Master Data,معالجة البيانات الرئيسية,
 Processing Chart of Accounts and Parties,معالجة الرسم البياني للحسابات والأطراف,
 Processing Items and UOMs,معالجة العناصر و UOMs,
-Processing Party Addresses,معالجة عناوين الحزب,
+Processing Party Addresses,معالجة عناوين الأطراف,
 Processing Vouchers,تجهيز القسائم,
 Procurement,الشراء,
 Produced Qty,الكمية المنتجة,
@@ -2288,7 +2288,7 @@ Quotations: ,عروض مسعرة:,
 Quotes to Leads or Customers.,قدم عروض مسعرة للزبائن المحتملين أو الزبائن المتعامل معهم سابقا.,
 RFQs are not allowed for {0} due to a scorecard standing of {1},لا يسمح ب رفق ل {0} بسبب وضع بطاقة الأداء ل {1},
 Range,نطاق,
-Rate,سعر السلعة المفردة,
+Rate,المعدل/المبلغ,
 Rate:,معدل:,
 Rating,تقييم,
 Raw Material,المواد الخام,
@@ -2320,7 +2320,7 @@ Ref,المرجع,
 Ref Date,تاريخ المرجع,
 Reference,مرجع,
 Reference #{0} dated {1},المرجع # {0} بتاريخ {1},
-Reference Date,المرجع تاريخ,
+Reference Date,تاريخ المرجع,
 Reference Doctype must be one of {0},المستند المرجع يجب أن يكون واحد من {0}\n<br>\nReference Doctype must be one of {0},
 Reference Document,وثيقة مرجعية,
 Reference Document Type,مرجع نوع الوثيقة,
@@ -2328,7 +2328,7 @@ Reference No & Reference Date is required for {0},رقم المرجع وتاري
 Reference No and Reference Date is mandatory for Bank transaction,رقم المرجع و تاريخ المرجع إلزامي للمعاملة المصرفية,
 Reference No is mandatory if you entered Reference Date,رقم المرجع إلزامي اذا أدخلت تاريخ المرجع\n<br>\nReference No is mandatory if you entered Reference Date,
 Reference No.,رقم المرجع.,
-Reference Number,رقم الارتباط,
+Reference Number,رقم المرجع,
 Reference Owner,إشارة المالك,
 Reference Type,نوع المرجع,
 "Reference: {0}, Item Code: {1} and Customer: {2}",المرجع: {0}، رمز العنصر: {1} والعميل: {2},
@@ -2562,7 +2562,7 @@ Schedule Admission,جدول القبول,
 Schedule Course,دورة الجدول الزمني,
 Schedule Date,جدول التسجيل,
 Schedule Discharge,الجدول الزمني التفريغ,
-Scheduled,من المقرر,
+Scheduled,مجدول,
 Scheduled Upto,مجدولة,
 "Schedules for {0} overlaps, do you want to proceed after skiping overlaped slots ?",جداول التداخلات {0} ، هل تريد المتابعة بعد تخطي الفتحات المتراكبة؟,
 Score cannot be greater than Maximum Score,النتيجة لا يمكن أن يكون أكبر من درجة القصوى,
@@ -2700,13 +2700,13 @@ Setup cheque dimensions for printing,أبعاد الاختيار الإعداد 
 Setup default values for POS Invoices,إعداد القيم الافتراضية لفواتير نقاط البيع,
 Setup mode of POS (Online / Offline),وضع الإعداد بوس (الانترنت / غير متصل),
 Setup your Institute in ERPNext,إعداد المعهد الخاص بك في إربنكست,
-Share Balance,رصيد السهم,
-Share Ledger,مشاركة دفتر الأستاذ,
-Share Management,إدارة المشاركة,
-Share Transfer,نقل المشاركة,
-Share Type,نوع المشاركة,
+Share Balance,رصيد الأسهم,
+Share Ledger,دفتر الأستاذ للأسهم,
+Share Management,إدارة الأسهم,
+Share Transfer,نقل الأسهم,
+Share Type,نوع الأسهم,
 Shareholder,المساهم,
-Ship To State,السفينة الى الدولة,
+Ship To State,الشحن إلى المنطقة,
 Shipments,شحنات,
 Shipping,الشحن,
 Shipping Address,عنوان الشحن,
@@ -2803,10 +2803,10 @@ Stock Liabilities,خصوم المخزون,
 Stock Options,خيارات المخزون,
 Stock Qty,الأسهم الكمية,
 Stock Received But Not Billed,المخزون المتلقي ولكن غير مفوتر,
-Stock Reports,تقارير الأسهم,
+Stock Reports,تقارير,
 Stock Summary,ملخص الأوراق المالية,
 Stock Transactions,قيود المخزون,
-Stock UOM,وحدة قياس السهم,
+Stock UOM,وحدة قياس المنتج,
 Stock Value,قيمة المخزون,
 Stock balance in Batch {0} will become negative {1} for Item {2} at Warehouse {3},توازن الأسهم في الدفعة {0} ستصبح سلبية {1} القطعة ل{2} في {3} مستودع,
 Stock cannot be updated against Delivery Note {0},لا يمكن تحديث المخزون مقابل ملاحظه التسليم {0}\n<br>\nStock cannot be updated against Delivery Note {0},
@@ -3027,31 +3027,31 @@ Timesheets,الجداول الزمنية,
 "Timesheets help keep track of time, cost and billing for activites done by your team",الجداول الزمنية تساعد على الحفاظ على المسار من الوقت والتكلفة وإعداد الفواتير للنشاطات الذي قام به فريقك,
 Titles for print templates e.g. Proforma Invoice.,عناوين نماذج الطباعة مثل الفاتورة الأولية.,
 To,إلى,
-To Address 1,على العنوان 1,
-To Address 2,على العنوان 2,
-To Bill,على فاتورة,
+To Address 1,إلى العنوان 1,
+To Address 2,إلى العنوان 2,
+To Bill,للفوترة,
 To Date,إلى تاريخ,
 To Date cannot be before From Date,(الى تاريخ) لا يمكن ان يكون قبل (من تاريخ),
 To Date cannot be less than From Date,لا يمكن أن يكون تاريخ التاريخ أقل من تاريخ,
 To Date must be greater than From Date,يجب أن يكون التاريخ أكبر من تاريخ,
 To Date should be within the Fiscal Year. Assuming To Date = {0},إلى التسجيل يجب أن يكون ضمن السنة المالية. على افتراض إلى تاريخ = {0},
 To Datetime,إلى التاريخ والوقت,
-To Deliver,لتسليم,
+To Deliver,للتسليم,
 To Deliver and Bill,للتسليم و الفوترة,
 To Fiscal Year,إلى السنة المالية,
 To GSTIN,إلى GSTIN,
-To Party Name,إلى اسم الحزب,
+To Party Name,إلى الطرف,
 To Pin Code,إلى الرقم السري,
 To Place,الى المكان,
 To Receive,للأستلام,
 To Receive and Bill,للأستلام و الفوترة,
 To State,إلى الدولة,
-To Warehouse,لمستودع,
+To Warehouse,إلى المستودع,
 To create a Payment Request reference document is required,لإنشاء مستند مرجع طلب الدفع مطلوب,
 To date can not be equal or less than from date,حتى الآن لا يمكن أن يكون مساويا أو أقل من التاريخ,
 To date can not be less than from date,حتى الآن لا يمكن أن يكون أقل من من تاريخ,
 To date can not greater than employee's relieving date,حتى الآن لا يمكن أن يكون أكبر من تاريخ تخفيف الموظف,
-"To filter based on Party, select Party Type first",لتصفية استنادا الحزب، حدد حزب النوع الأول,
+"To filter based on Party, select Party Type first",حدد نوع الطرف أولا للتصفية,
 "To get the best out of ERPNext, we recommend that you take some time and watch these help videos.",للحصول على أفضل النتائج من ERPNext، ونحن نوصي بأن تأخذ بعض الوقت ومشاهدة أشرطة الفيديو هذه المساعدة.,
 "To include tax in row {0} in Item rate, taxes in rows {1} must also be included",ل تشمل الضريبة في الصف {0} في معدل الإغلاق ، {1} ويجب أيضا تضمين الضرائب في الصفوف,
 To make Customer based incentive schemes.,لجعل خطط الحوافز على أساس العملاء.,
@@ -3070,7 +3070,7 @@ Total Absent,إجمالي الغياب,
 Total Achieved,الإجمالي المحقق,
 Total Actual,الإجمالي الفعلي,
 Total Allocated Leaves,مجموع الأوراق المخصصة,
-Total Amount,الاعتماد الأساسي,
+Total Amount,المبلغ الإجمالي,
 Total Amount Credited,مجموع المبلغ المعتمد,
 Total Applicable Charges in Purchase Receipt Items table must be same as Total Taxes and Charges,مجموع الرسوم المطبقة في شراء طاولة إيصال عناصر يجب أن يكون نفس مجموع الضرائب والرسوم,
 Total Budget,الميزانية الإجمالية,
@@ -3084,7 +3084,7 @@ Total Invoiced Amount,إجمالي مبلغ الفاتورة,
 Total Leaves,مجموع الإجازات,
 Total Order Considered,اجمالي أمر البيع التقديري,
 Total Order Value,مجموع قيمة الطلب,
-Total Outgoing,مجموع المنتهية ولايته,
+Total Outgoing,مجموع الصرف,
 Total Outstanding,إجمالي المعلقة,
 Total Outstanding Amount,إجمالي المبلغ المستحق,
 Total Outstanding: {0},المجموع: {0},
@@ -3196,7 +3196,7 @@ Upload your letter head and logo. (you can edit them later).,تحميل رئيس
 Upper Income,أعلى دخل,
 Use Sandbox,استخدام ساندبوكس,
 Used Leaves,مغادرات مستخدمة,
-User,المستعمل,
+User,المستخدم,
 User ID,تعريف المستخدم,
 User ID not set for Employee {0},هوية المستخدم لم يتم تعيين موظف ل {0},
 User Remark,ملاحظة المستخدم,
@@ -3578,7 +3578,7 @@ Account: <b>{0}</b> is capital Work in progress and can not be updated by Journa
 Account: {0} is not permitted under Payment Entry,الحساب: {0} غير مسموح به بموجب إدخال الدفع,
 Accounting Dimension <b>{0}</b> is required for 'Balance Sheet' account {1}.,البعد المحاسبي <b>{0}</b> مطلوب لحساب &quot;الميزانية العمومية&quot; {1}.,
 Accounting Dimension <b>{0}</b> is required for 'Profit and Loss' account {1}.,البعد المحاسبي <b>{0}</b> مطلوب لحساب &quot;الربح والخسارة&quot; {1}.,
-Accounting Masters,الماجستير المحاسبة,
+Accounting Masters,الاختصارات المحاسبية الأساسية,
 Accounting Period overlaps with {0},فترة المحاسبة تتداخل مع {0},
 Activity,نشاط,
 Add / Manage Email Accounts.,إضافة / إدارة حسابات البريد الإلكتروني.,
@@ -3646,7 +3646,7 @@ Call Disconnected,تم قطع الاتصال,
 Call Missed,دعوة غاب,
 Call Summary,ملخص الاتصال,
 Call Summary Saved,تم حفظ ملخص الاتصال,
-Cancelled,ألغيت,
+Cancelled,ملغى,
 Cannot Calculate Arrival Time as Driver Address is Missing.,لا يمكن حساب وقت الوصول حيث أن عنوان برنامج التشغيل مفقود.,
 Cannot Optimize Route as Driver Address is Missing.,لا يمكن تحسين المسار لأن عنوان برنامج التشغيل مفقود.,
 Cannot complete task {0} as its dependant task {1} are not ccompleted / cancelled.,لا يمكن إكمال المهمة {0} لأن المهمة التابعة {1} ليست مكتملة / ملغاة.,
@@ -3667,7 +3667,7 @@ Company of asset {0} and purchase document {1} doesn't matches.,شركة الأ�
 Compare BOMs for changes in Raw Materials and Operations,قارن BOMs للتغييرات في المواد الخام والعمليات,
 Compare List function takes on list arguments,تأخذ وظيفة قائمة المقارنة قائمة الوسائط,
 Complete,أكمال,
-Completed,أكتمل,
+Completed,مكتمل,
 Completed Quantity,الكمية المكتملة,
 Connect your Exotel Account to ERPNext and track call logs,قم بتوصيل حسابك في Exotel بـ ERPNext وتتبع سجلات المكالمات,
 Connect your bank accounts to ERPNext,قم بتوصيل حساباتك المصرفية بـ ERPNext,
@@ -3714,7 +3714,7 @@ Doctype,DOCTYPE,
 Document {0} successfully uncleared,تم حذف المستند {0} بنجاح,
 Download Template,تحميل الوثيقة,
 Dr,Dr,
-Due Date,بسبب تاريخ,
+Due Date,تاريخ الاستحقاق,
 Duplicate,مكررة,
 Duplicate Project with Tasks,مشروع مكرر مع المهام,
 Duplicate project has been created,تم إنشاء مشروع مكرر,
@@ -3835,7 +3835,7 @@ Looks like someone sent you to an incomplete URL. Please ask them to look into i
 Make Journal Entry,جعل إدخال دفتر اليومية,
 Make Purchase Invoice,إنشاء فاتورة شراء,
 Manufactured,المصنعة,
-Mark Work From Home,مارك العمل من المنزل,
+Mark Work From Home,تسجيل عمل من المنزل,
 Master,سيد,
 Max strength cannot be less than zero.,أقصى قوة لا يمكن أن يكون أقل من الصفر.,
 Maximum attempts for this quiz reached!,وصلت محاولات الحد الأقصى لهذا الاختبار!,
@@ -4049,7 +4049,7 @@ Set Meta Tags,تعيين العلامات الفوقية,
 Set {0} in company {1},قم بتعيين {0} في الشركة {1},
 Setup,الإعدادات,
 Setup Wizard,معالج الإعدادات,
-Shift Management,إدارة التحول,
+Shift Management,إدارة المناوبات,
 Show Future Payments,إظهار المدفوعات المستقبلية,
 Show Linked Delivery Notes,إظهار ملاحظات التسليم المرتبطة,
 Show Sales Person,عرض شخص المبيعات,
@@ -4106,7 +4106,7 @@ Title,اللقب,
 "To allow over billing, update ""Over Billing Allowance"" in Accounts Settings or the Item.",للسماح بزيادة الفواتير ، حدّث &quot;Over Billing Allowance&quot; في إعدادات الحسابات أو العنصر.,
 "To allow over receipt / delivery, update ""Over Receipt/Delivery Allowance"" in Stock Settings or the Item.",للسماح بوصول الاستلام / التسليم ، قم بتحديث &quot;الإفراط في الاستلام / بدل التسليم&quot; في إعدادات المخزون أو العنصر.,
 To date needs to be before from date,حتى الآن يجب أن يكون قبل من تاريخ,
-Total,الاجمالي غير شامل الضريبة,
+Total,الإجمالي,
 Total Early Exits,إجمالي المخارج المبكرة,
 Total Late Entries,مجموع الإدخالات المتأخرة,
 Total Payment Request amount cannot be greater than {0} amount,لا يمكن أن يكون إجمالي مبلغ طلب الدفع أكبر من {0} المبلغ,
@@ -4281,7 +4281,7 @@ Row #{0}: Item {1} is not a Serialized/Batched Item. It cannot have a Serial No/
 Please set {0},الرجاء تعيين {0},
 Please set {0},الرجاء تعيين {0},supplier
 Draft,مشروع,"docstatus,=,0"
-Cancelled,ألغيت,"docstatus,=,2"
+Cancelled,ملغى,"docstatus,=,2"
 Please setup Instructor Naming System in Education > Education Settings,يرجى إعداد نظام تسمية المدرب في التعليم&gt; إعدادات التعليم,
 Please set Naming Series for {0} via Setup > Settings > Naming Series,يرجى تعيين سلسلة التسمية لـ {0} عبر الإعداد&gt; الإعدادات&gt; سلسلة التسمية,
 UOM Conversion factor ({0} -> {1}) not found for item: {2},معامل تحويل UOM ({0} -&gt; {1}) غير موجود للعنصر: {2},
@@ -4543,7 +4543,7 @@ Company Account,حساب الشركة,
 Account Subtype,نوع الحساب الفرعي,
 Is Default Account,هو الحساب الافتراضي,
 Is Company Account,هو حساب الشركة,
-Party Details,تفاصيل الحزب,
+Party Details,تفاصيل الطرف,
 Account Details,تفاصيل الحساب,
 IBAN,رقم الحساب البنكي,
 Bank Account No,رقم الحساب البنكي,
@@ -4750,43 +4750,43 @@ Accounts Receivable Unpaid Account,حسابات القبض غير المدفوع
 Item Tax Template,قالب الضريبة البند,
 Tax Rates,معدلات الضريبة,
 Item Tax Template Detail,البند قالب الضريبة التفاصيل,
-Entry Type,نوع الدخول,
-Inter Company Journal Entry,الدخول المشترك بين الشركة,
+Entry Type,نوع القيد,
+Inter Company Journal Entry,قيد بين الشركات,
 Bank Entry,حركة بنكية,
-Cash Entry,الدخول النقدية,
-Credit Card Entry,إدخال بطاقة إئتمان,
-Contra Entry,الدخول كونترا,
-Excise Entry,الدخول المكوس,
-Write Off Entry,شطب الدخول,
-Opening Entry,فتح مدخل,
+Cash Entry,قيد نقدي,
+Credit Card Entry,قيد بطاقة إئتمانية,
+Contra Entry,Contra Entry,
+Excise Entry,Excise Entry,
+Write Off Entry,قيد تسوية,
+Opening Entry,قيد افتتاحي,
 ACC-JV-.YYYY.-,ACC-JV-.YYYY.-,
 Accounting Entries,القيود المحاسبة,
-Total Debit,مجموع الخصم,
-Total Credit,إجمالي الائتمان,
+Total Debit,إجمالي المدين,
+Total Credit,إجمالي الدائن,
 Difference (Dr - Cr),الفرق ( المدين -  الدائن ),
 Make Difference Entry,جعل دخول الفرق,
 Total Amount Currency,عملة إجمالي المبلغ,
 Total Amount in Words,إجمالي المبلغ بالنص,
-Remark,كلام,
+Remark,ملاحظة,
 Paid Loan,قرض مدفوع,
 Inter Company Journal Entry Reference,انتر دخول الشركة مجلة الدخول,
 Write Off Based On,شطب بناء على,
 Get Outstanding Invoices,الحصول على فواتير معلقة,
-Write Off Amount,شطب المبلغ,
+Write Off Amount,مبلغ التسوية,
 Printing Settings,إعدادات الطباعة,
 Pay To / Recd From,دفع إلى / من Recd,
 Payment Order,أمر دفع,
 Subscription Section,قسم الاشتراك,
 Journal Entry Account,حساب إدخال القيود اليومية,
 Account Balance,رصيد حسابك,
-Party Balance,ميزان الحزب,
+Party Balance,ميزان الطرف,
 Accounting Dimensions,أبعاد المحاسبة,
 If Income or Expense,إذا دخل أو مصروف,
 Exchange Rate,سعر الصرف,
 Debit in Company Currency,الخصم في الشركة العملات,
 Credit in Company Currency,المدين في عملة الشركة,
-Payroll Entry,دخول الرواتب,
-Employee Advance,تقدم الموظف,
+Payroll Entry,إدخال المسيرات,
+Employee Advance,دفعات مقدمة,
 Reference Due Date,تاريخ الاستحقاق المرجعي,
 Loyalty Program Tier,مستوى برنامج الولاء,
 Redeem Against,استبدال مقابل,
@@ -4835,7 +4835,7 @@ Payment Order Status,حالة طلب الدفع,
 Payment Ordered,دفع أمر,
 Payment From / To,الدفع من / إلى,
 Company Bank Account,حساب بنك الشركة,
-Party Bank Account,حساب بنك الحزب,
+Party Bank Account,حساب بنك الطرف,
 Account Paid From,حساب مدفوع من,
 Account Paid To,حساب مدفوع ل,
 Paid Amount (Company Currency),مجموع الدفعات (بعملة الشركة),
@@ -4938,7 +4938,7 @@ Is Cumulative,هو التراكمي,
 Coupon Code Based,كود الكوبون,
 Discount on Other Item,خصم على بند آخر,
 Apply Rule On Other,تطبيق القاعدة على الآخر,
-Party Information,معلومات الحزب,
+Party Information,معلومات الطرف,
 Quantity and Amount,الكمية والكمية,
 Min Qty,الحد الأدنى من الكمية,
 Max Qty,أعلى الكمية,
@@ -5154,7 +5154,7 @@ Advance amount,المبلغ مقدما,
 Sales Invoice Item,بند فاتورة مبيعات,
 Customer's Item Code,كود صنف العميل,
 Brand Name,العلامة التجارية اسم,
-Qty as per Stock UOM,الكمية حسب السهم لوحدة قياس السهم,
+Qty as per Stock UOM,الكمية حسب وحدة قياس المنتج,
 Discount and Margin,الخصم والهامش,
 Rate With Margin,معدل مع الهامش,
 Discount (%) on Price List Rate with Margin,الخصم (٪) على سعر قائمة السعر مع الهامش,
@@ -5179,19 +5179,19 @@ Parenttype,Parenttype,
 "Standard tax template that can be applied to all Sales Transactions. This template can contain list of tax heads and also other expense / income heads like ""Shipping"", ""Insurance"", ""Handling"" etc.\n\n#### Note\n\nThe tax rate you define here will be the standard tax rate for all **Items**. If there are **Items** that have different rates, they must be added in the **Item Tax** table in the **Item** master.\n\n#### Description of Columns\n\n1. Calculation Type: \n    - This can be on **Net Total** (that is the sum of basic amount).\n    - **On Previous Row Total / Amount** (for cumulative taxes or charges). If you select this option, the tax will be applied as a percentage of the previous row (in the tax table) amount or total.\n    - **Actual** (as mentioned).\n2. Account Head: The Account ledger under which this tax will be booked\n3. Cost Center: If the tax / charge is an income (like shipping) or expense it needs to be booked against a Cost Center.\n4. Description: Description of the tax (that will be printed in invoices / quotes).\n5. Rate: Tax rate.\n6. Amount: Tax amount.\n7. Total: Cumulative total to this point.\n8. Enter Row: If based on ""Previous Row Total"" you can select the row number which will be taken as a base for this calculation (default is the previous row).\n9. Is this Tax included in Basic Rate?: If you check this, it means that this tax will not be shown below the item table, but will be included in the Basic Rate in your main item table. This is useful where you want give a flat price (inclusive of all taxes) price to customers.","قالب الضرائب القياسية التي يمكن تطبيقها على جميع عمليات البيع. يمكن أن يحتوي هذا القالب قائمة رؤساء الضريبية، وكذلك غيرهم من رؤساء حساب / الدخل مثل ""شحن""، ""التأمين""، ""معالجة""، وغيرها \n\n #### ملاحظة \n\n معدل الضريبة لك تعريف هنا سوف يكون معدل الضريبة موحد لجميع الأصناف ** **. إذا كانت هناك بنود ** ** التي لها أسعار مختلفة، وأنها يجب أن يضاف في * الضرائب البند ** الجدول في البند ** ** الرئيسي.\n\n #### وصف الأعمدة \n\n 1. نوع الحساب: \n - وهذا يمكن أن يكون على ** صافي إجمالي ** (وهذا هو مجموع المبلغ الأساسي).\n - ** في الصف السابق الكل / المكونات ** (للضرائب أو رسوم التراكمية). إذا قمت بتحديد هذا الخيار، سيتم تطبيق الضريبة كنسبة مئوية من الصف السابق (في الجدول الضرائب) كمية أو المجموع.\n - ** ** الفعلية (كما ذكر).\n 2. رئيس الحساب: حساب دفتر الأستاذ والتي بموجبها سيتم حجز هذه الضريبة \n 3. مركز التكلفة: إذا الضرائب / الرسوم هو الدخل (مثل الشحن) أو حساب فإنه يحتاج إلى أن يتم الحجز مقابل مركز التكلفة.\n 4. الوصف: وصف الضريبية (التي ستتم طباعتها في الفواتير / الاقتباس).\n 5. معدل: معدل الضريبة.\n 6. المبلغ: مبلغ الضرائب.\n 7. المجموع: مجموعه التراكمي لهذه النقطة.\n 8. أدخل الصف: إذا كان على أساس ""السابق صف إجمالي"" يمكنك تحديد عدد الصفوف التي سيتم اتخاذها كقاعدة لهذا الحساب (الافتراضي هو الصف السابق).\n 9. هل هذه الضريبة متضمنة في سعر الأساسية؟: إذا قمت بتحديد هذا، فهذا يعني أنه لن يتم عرض هذه الضريبة أسفل الجدول البند، ولكن سوف تدرج في المعدل الأساسي في الجدول البند الرئيسي الخاص بك. وهذا مفيد حيث تريد إعطاء سعر شقة (شاملة لجميع الضرائب) السعر للعملاء.",
 * Will be calculated in the transaction.,* سيتم احتسابه في المعاملة.,
 From No,من رقم,
-To No,إلى لا,
+To No,إلى الرقم,
 Is Company,هي الشركة,
 Current State,الوضع الحالي,
 Purchased,اشترى,
 From Shareholder,من المساهم,
 From Folio No,من فوليو نو,
 To Shareholder,للمساهم,
-To Folio No,إلى الورقة رقم,
+To Folio No,إلى الرقم المميز,
 Equity/Liability Account,حساب الأسهم / المسؤولية,
 Asset Account,حساب الأصول,
 (including),(تتضمن),
 ACC-SH-.YYYY.-,ACC-SH-.YYYY.-,
-Folio no.,فوليو نو.,
+Folio no.,الرقم المميز,
 Address and Contacts,عناوين واتصالات,
 Contact List,قائمة جهات الاتصال,
 Hidden list maintaining the list of contacts linked to Shareholder,قائمة مخفية الحفاظ على قائمة من الاتصالات المرتبطة المساهم,
@@ -5473,7 +5473,7 @@ Percentage you are allowed to transfer more against the quantity ordered. For ex
 PUR-ORD-.YYYY.-,PUR-ORD-.YYYY.-,
 Get Items from Open Material Requests,الحصول على عناصر من طلبات فتح المواد,
 Fetch items based on Default Supplier.,جلب العناصر على أساس المورد الافتراضي.,
-Required By,المطلوبة من قبل,
+Required By,مطلوبة ب,
 Order Confirmation No,رقم تأكيد الطلب,
 Order Confirmation Date,تاريخ تأكيد الطلب,
 Customer Mobile No,رقم محمول العميل,
@@ -5502,7 +5502,7 @@ Blanket Order Rate,بطالة سعر النظام,
 Returned Qty,عاد الكمية,
 Purchase Order Item Supplied,الأصناف المزوده بامر الشراء,
 BOM Detail No,رقم تفاصيل فاتورة الموارد,
-Stock Uom,وحدة قياس السهم,
+Stock Uom,وحدة قياس المنتج,
 Raw Material Item Code,قانون المواد الخام المدينة,
 Supplied Qty,الموردة الكمية,
 Purchase Receipt Item Supplied,شراء السلعة استلام الموردة,
@@ -5642,7 +5642,7 @@ From Time ,من وقت,
 Campaign Email Schedule,جدول البريد الإلكتروني للحملة,
 Send After (days),إرسال بعد (أيام),
 Signed,وقعت,
-Party User,مستخدم الحزب,
+Party User,مستخدم الطرف,
 Unsigned,غير موقعة,
 Fulfilment Status,حالة الوفاء,
 N/A,N / A,
@@ -5996,7 +5996,7 @@ CN,CN,
 DE,DE,
 ES,ES,
 FR,FR,
-IN,في,
+IN,دخول,
 JP,JP,
 IT,IT,
 MX,MX,
@@ -6436,18 +6436,18 @@ Date on which this component is applied,تاريخ تطبيق هذا المكو�
 Salary Slip,كشف الراتب,
 Salary Component Type,نوع مكون الراتب,
 HR User,مستخدم الموارد البشرية,
-Appointment Letter,رسالة موعد,
-Job Applicant,طالب الوظيفة,
-Applicant Name,اسم طالب الوظيفة,
-Appointment Date,تاريخ الموعد,
-Appointment Letter Template,قالب رسالة التعيين,
+Appointment Letter,خطاب تعيين,
+Job Applicant,المتقدم للوظيفة,
+Applicant Name,اسم المتقدم للوظيفة,
+Appointment Date,تاريخ التعيين,
+Appointment Letter Template,قالب خطاب التعيين,
 Body,الجسم,
 Closing Notes,ملاحظات ختامية,
-Appointment Letter content,محتوى رسالة التعيين,
+Appointment Letter content,محتوى خطاب التعيين,
 Appraisal,تقييم,
 HR-APR-.YY.-.MM.,HR-APR-.YY.-.MM.,
 Appraisal Template,قالب التقييم,
-For Employee Name,لاسم الموظف,
+For Employee Name,للموظف,
 Goals,الأهداف,
 Total Score (Out of 5),مجموع نقاط (من 5),
 "Any other remarks, noteworthy effort that should go in the records.",أي ملاحظات أخرى، وجهود جديرة بالذكر يجب أن تدون في السجلات.,
@@ -6521,13 +6521,13 @@ Confirmation Date,تاريخ التأكيد,
 Contract End Date,تاريخ نهاية العقد,
 Notice (days),إشعار (أيام),
 Date Of Retirement,تاريخ التقاعد,
-Department and Grade,قسم والصف,
-Reports to,إرسال التقارير إلى,
+Department and Grade,القسم والمرتبة,
+Reports to,المدير,
 Attendance and Leave Details,تفاصيل الحضور والإجازة,
 Leave Policy,سياسة الإجازة,
 Attendance Device ID (Biometric/RF tag ID),معرف جهاز الحضور (معرف بطاقة الهوية / RF),
 Applicable Holiday List,قائمة العطلات القابلة للتطبيق,
-Default Shift,التحول الافتراضي,
+Default Shift,المناوبة الافتراضية,
 Salary Details,تفاصيل الراتب,
 Salary Mode,طريقة تحصيل الراتب,
 Bank A/C No.,رقم الحساب المصرفي.,
@@ -6577,13 +6577,13 @@ Employees HTML,الموظفين HTML,
 Marked Attendance,حضور مسجل,
 Marked Attendance HTML,حضور مسجل HTML,
 Employee Benefit Application,تطبيق مزايا الموظف,
-Max Benefits (Yearly),أقصى الفوائد (سنويا),
-Remaining Benefits (Yearly),الفوائد المتبقية (سنوية),
+Max Benefits (Yearly),الحد الأعلى للإمتيازات سنويا,
+Remaining Benefits (Yearly),الامتيازات المتبقية (سنويا),
 Payroll Period,فترة المرتبات,
 Benefits Applied,الفوائد المطبقة,
 Dispensed Amount (Pro-rated),المبلغ المخفَّض (المحسوب),
 Employee Benefit Application Detail,تفاصيل تطبيق استحقاق الموظف,
-Earning Component,أحدى المستحقات,
+Earning Component,مكون الراتب,
 Pay Against Benefit Claim,ادفع ضد مطالبات الاستحقاق,
 Max Benefit Amount,أقصى فائدة المبلغ,
 Employee Benefit Claim,مطالبة مصلحة الموظف,
@@ -6597,9 +6597,9 @@ Activity Name,اسم النشاط,
 Task Weight,وزن المهمة,
 Required for Employee Creation,مطلوب لإنشاء موظف,
 Applicable in the case of Employee Onboarding,ينطبق على حالة تشغيل الموظف,
-Employee Checkin,فحص الموظف,
+Employee Checkin,دخول الموظفين,
 Log Type,نوع السجل,
-OUT,خارج,
+OUT,خروج,
 Location / Device ID,الموقع / معرف الجهاز,
 Skip Auto Attendance,تخطي الحضور التلقائي,
 Shift Start,تحول البداية,
@@ -6627,7 +6627,7 @@ Incentive Amount,مبلغ الحافز,
 Employee Internal Work History,سجل عمل الموظف داخل الشركة,
 Employee Onboarding,اعداد الموظف,
 Notify users by email,أبلغ المستخدمين عن طريق البريد الإلكتروني,
-Employee Onboarding Template,قالب Onboarding الموظف,
+Employee Onboarding Template,قالب إعداد الموظفين الجدد,
 Activities,أنشطة,
 Employee Onboarding Activity,نشاط Onboarding الموظف,
 Employee Other Income,دخل الموظف الآخر,
@@ -6669,7 +6669,7 @@ Tax Exemption Category,فئة الإعفاء الضريبي,
 Employee Training,تدريب الموظفين,
 Training Date,تاريخ التدريب,
 Employee Transfer,نقل الموظفين,
-Transfer Date,تاريخ التحويل,
+Transfer Date,تاريخ النقل,
 Employee Transfer Details,تفاصيل نقل الموظف,
 Employee Transfer Detail,نقل موظف التفاصيل,
 Re-allocate Leaves,إعادة تخصيص الأوراق,
@@ -6705,7 +6705,7 @@ Enter retirement age in years,أدخل سن التقاعد بالسنوات,
 Stop Birthday Reminders,ايقاف التذكير بأعياد الميلاد,
 Expense Approver Mandatory In Expense Claim,الموافقة على المصروفات إلزامية في مطالبة النفقات,
 Payroll Settings,إعدادات دفع الرواتب,
-Leave,غادر,
+Leave,الغيابات,
 Max working hours against Timesheet,اقصى عدد ساعات عمل بسجل التوقيت,
 Include holidays in Total no. of Working Days,العطلات تحسب من ضمن أيام العمل,
 "If checked, Total no. of Working Days will include holidays, and this will reduce the value of Salary Per Day",إذا تم، المشاركات لا. من أيام عمل وسوف تشمل أيام العطل، وهذا سوف يقلل من قيمة الراتب لكل يوم,
@@ -6763,7 +6763,7 @@ Add unused leaves from previous allocations,إضافة الاجازات غير �
 Unused leaves,إجازات غير مستخدمة,
 Total Leaves Allocated,إجمالي الاجازات المخصصة,
 Total Leaves Encashed,اجمالي الاوراق مقطوعه,
-Leave Period,اترك فترة,
+Leave Period,فترة الإجازة,
 Carry Forwarded Leaves,تحمل أوراق واحال,
 Apply / Approve Leaves,تقديم / الموافقة على أجازة,
 HR-LAP-.YYYY.-,HR-LAP-.YYYY.-,
@@ -6812,22 +6812,22 @@ Leave Policy Details,اترك تفاصيل السياسة,
 Leave Policy Detail,ترك سياسة التفاصيل,
 Annual Allocation,التخصيص السنوي,
 Leave Type Name,اسم نوع الاجازة,
-Max Leaves Allowed,ماكس يترك مسموح به,
+Max Leaves Allowed,أقصى إجازات مسموحة,
 Applicable After (Working Days),قابل للتطبيق بعد (أيام العمل),
 Maximum Continuous Days Applicable,أقصى يوم متواصل,
 Is Optional Leave,هو اجازة اختيارية,
 Allow Negative Balance,السماح برصيد سالب,
-Include holidays within leaves as leaves,ايام العطل التي ضمن الإجازات تحسب إجازة,
+Include holidays within leaves as leaves,احتساب العطل الرسمية من ضمن الإجازات,
 Is Compensatory,هو تعويض,
 Maximum Carry Forwarded Leaves,الحد الأقصى لحمل الأوراق المعاد توجيهها,
 Expire Carry Forwarded Leaves (Days),تنتهي صلاحية حمل الأوراق المرسلة (بالأيام),
 Calculated in days,تحسب بالأيام,
 Encashment,المدفوعات النقدية,
 Allow Encashment,السماح بالصرف,
-Encashment Threshold Days,أيام عتبة الاسترداد,
+Encashment Threshold Days,الحد الأقصى للأيام المدفوعة,
 Earned Leave,إجازة مكتسبة,
 Is Earned Leave,هو إجازة مكتسبة,
-Earned Leave Frequency,تكرار الإجازات المكتسبة,
+Earned Leave Frequency,معدل اكتساب الإجازة,
 Rounding,التقريب,
 Payroll Employee Detail,الرواتب الموظف التفاصيل,
 Payroll Frequency,الدورة الزمنية لدفع الرواتب,
@@ -6851,14 +6851,14 @@ Retention Bonus,مكافأة الاحتفاظ,
 Bonus Payment Date,تاريخ دفع المكافأة,
 Bonus Amount,أجمالي المكافأة,
 Abbr,اسم مختصر,
-Depends on Payment Days,يعتمد على أيام الدفع,
-Is Tax Applicable,هي ضريبة قابلة للتطبيق,
+Depends on Payment Days,يعتمد على الأيام المدفوعة,
+Is Tax Applicable,خاضع للضريبة,
 Variable Based On Taxable Salary,متغير على أساس الخاضع للضريبة,
 Exempted from Income Tax,معفى من ضريبة الدخل,
-Round to the Nearest Integer,جولة إلى أقرب عدد صحيح,
-Statistical Component,العنصر الإحصائي,
+Round to the Nearest Integer,تقريب لأقرب عدد صحيح,
+Statistical Component,مستخدمة للحسابات فقط,
 "If selected, the value specified or calculated in this component will not contribute to the earnings or deductions. However, it's value can be referenced by other components that can be added or deducted. ",إذا تم تحديده، فإن القيمة المحددة أو المحسوبة في هذا المكون لن تساهم في الأرباح أو الاستقطاعات. ومع ذلك، فإنه يمكن الإشارة إلى القيمة من قبل المكونات الأخرى التي يمكن أن تضاف أو خصمها.,
-Do Not Include in Total,لا تدرج في المجموع,
+Do Not Include in Total,غير داخلة في الإجمالي,
 Flexible Benefits,فوائد مرنة,
 Is Flexible Benefit,هو فائدة مرنة,
 Max Benefit Amount (Yearly),أقصى فائدة المبلغ (سنويا),
@@ -6869,7 +6869,7 @@ Amount based on formula,القيمة بناءا على الصيغة,
 Formula,صيغة,
 Salary Detail,تفاصيل الراتب,
 Component,مكون,
-Do not include in total,لا تدرج في المجموع,
+Do not include in total,غير داخلة في الإجمالي,
 Default Amount,المبلغ الافتراضي,
 Additional Amount,مبلغ إضافي,
 Tax on flexible benefit,الضريبة على الفائدة المرنة,
@@ -6893,14 +6893,14 @@ Gross Pay - Total Deduction - Loan Repayment,اجمالي الأجر - إجما�
 Total in words,إجمالي بالحروف,
 Net Pay (in words) will be visible once you save the Salary Slip.,صافي الأجر (بالحروف) تكون مرئية بمجرد حفظ كشف راتب.,
 Salary Component for timesheet based payroll.,مكون الراتب لكشف المرتبات المبنية على أساس سجلات التوقيت,
-Leave Encashment Amount Per Day,ترك Encshment المبلغ لكل يوم,
-Max Benefits (Amount),أقصى الفوائد (المبلغ),
+Leave Encashment Amount Per Day,قيمة الإجازات عن كل يوم,
+Max Benefits (Amount),مبلغ الحد الأعلى للإمتيازات,
 Salary breakup based on Earning and Deduction.,تقسيم الراتب بناءَ على الكسب والاستقطاع.,
 Total Earning,إجمالي الدخل,
 Salary Structure Assignment,تعيين هيكل الراتب,
-Shift Assignment,مهمة التحول,
-Shift Type,نوع التحول,
-Shift Request,طلب التغيير,
+Shift Assignment,تعيين المناوبات,
+Shift Type,نوع المناوبة,
+Shift Request,طلب المناوبة,
 Enable Auto Attendance,تمكين الحضور التلقائي,
 Mark attendance based on 'Employee Checkin' for Employees assigned to this shift.,حدد الحضور استنادًا إلى &quot;فحص الموظف&quot; للموظفين المعينين لهذا التحول.,
 Auto Attendance Settings,إعدادات الحضور التلقائي,
@@ -7275,7 +7275,7 @@ Update BOM Cost Automatically,تحديث بوم التكلفة تلقائيا,
 Material Request Plan Item,المادة طلب خطة البند,
 Material Request Type,نوع طلب المواد,
 Material Issue,صرف مواد,
-Customer Provided,العملاء المقدمة,
+Customer Provided,مقدمة من العميل,
 Minimum Order Quantity,أقل كمية ممكن طلبها,
 Default Workstation,محطة العمل الافتراضية,
 Production Plan,خطة الإنتاج,
@@ -8032,7 +8032,7 @@ Variant Of,البديل من,
 Is Item from Hub,هو البند من المحور,
 Default Unit of Measure,وحدة القياس الافتراضية,
 Maintain Stock,منتج يخزن,
-Standard Selling Rate,مستوى البيع السعر,
+Standard Selling Rate,سعر البيع الإفتراضي,
 Auto Create Assets on Purchase,إنشاء الأصول تلقائيًا عند الشراء,
 Asset Naming Series,سلسلة تسمية الأصول,
 Over Delivery/Receipt Allowance (%),زيادة التسليم / بدل الاستلام (٪),
@@ -8341,7 +8341,7 @@ Quantity Difference,الكمية الفرق,
 Amount Difference,مقدار الفرق,
 Item Naming By,تسمية السلعة بواسطة,
 Default Item Group,المجموعة الافتراضية للمواد,
-Default Stock UOM,افتراضي وحدة قياس السهم,
+Default Stock UOM,وحدة قياس المنتج الإفتراضية,
 Sample Retention Warehouse,مستودع الاحتفاظ بالعينات,
 Default Valuation Method,أسلوب التقييم الافتراضي,
 Show Barcode Field,مشاهدة الباركود الميدان,
@@ -9066,7 +9066,7 @@ Monthly Eligible Amount,المبلغ الشهري المؤهل,
 Total Eligible HRA Exemption,إجمالي إعفاء HRA المؤهل,
 Validating Employee Attendance...,التحقق من صحة حضور الموظف ...,
 Submitting Salary Slips and creating Journal Entry...,تقديم قسائم الرواتب وإنشاء قيد دفتر اليومية ...,
-Calculate Payroll Working Days Based On,حساب أيام عمل الرواتب على أساس,
+Calculate Payroll Working Days Based On,حساب الرواتب حسب,
 Consider Unmarked Attendance As,ضع في اعتبارك الحضور غير المحدد باسم,
 Fraction of Daily Salary for Half Day,جزء من الراتب اليومي لنصف يوم,
 Component Type,نوع المكون,
@@ -9168,7 +9168,7 @@ Item will be removed since no serial / batch no selected.,ستتم إزالة ا
 Discount (%),خصم (٪),
 You cannot submit the order without payment.,لا يمكنك تقديم الطلب بدون دفع.,
 You cannot submit empty order.,لا يمكنك تقديم طلب فارغ.,
-To Be Paid,لكي تدفع,
+To Be Paid,المبلغ المستحق للدفع,
 Create POS Opening Entry,إنشاء مدخل فتح نقطة البيع,
 Please add Mode of payments and opening balance details.,الرجاء إضافة طريقة الدفع وتفاصيل الرصيد الافتتاحي.,
 Toggle Recent Orders,تبديل الطلبات الأخيرة,
@@ -9329,7 +9329,7 @@ Employee Onboarding: {0} is already for Job Applicant: {1},تأهيل الموظ
 Job Offer: {0} is already for Job Applicant: {1},عرض الوظيفة: {0} مقدم بالفعل لمقدم طلب وظيفة: {1},
 Only Shift Request with status 'Approved' and 'Rejected' can be submitted,يمكن فقط تقديم طلب التحول بالحالة &quot;موافق عليه&quot; و &quot;مرفوض&quot;,
 Shift Assignment: {0} created for Employee: {1},واجب التحول: {0} تم إنشاؤه للموظف: {1},
-You can not request for your Default Shift: {0},لا يمكنك طلب التحول الافتراضي الخاص بك: {0},
+You can not request for your Default Shift: {0},لا يمكنك طلب المناوبة الافتراضية بنفسك: {0},
 Only Approvers can Approve this Request.,الموافقون فقط هم من يمكنهم الموافقة على هذا الطلب.,
 Asset Value Analytics,تحليلات قيمة الأصول,
 Category-wise Asset Value,قيمة الأصول حسب الفئة,
@@ -9524,7 +9524,7 @@ Account {0} exists in parent company {1}.,الحساب {0} موجود في ال�
 "To overrule this, enable '{0}' in company {1}",لإلغاء هذا ، قم بتمكين &quot;{0}&quot; في الشركة {1},
 Invalid condition expression,تعبير شرط غير صالح,
 Please Select a Company First,الرجاء تحديد شركة أولاً,
-Please Select Both Company and Party Type First,الرجاء تحديد نوع الشركة والحزب أولاً,
+Please Select Both Company and Party Type First,الرجاء تحديد نوع الشركة أو الطرف أولا,
 Provide the invoice portion in percent,قم بتوفير جزء الفاتورة بالنسبة المئوية,
 Give number of days according to prior selection,أعط عدد الأيام حسب الاختيار المسبق,
 Email Details,تفاصيل البريد الإلكتروني,
@@ -9838,3 +9838,11 @@ Enable European Access,تمكين الوصول الأوروبي,
 Creating Purchase Order ...,إنشاء أمر شراء ...,
 "Select a Supplier from the Default Suppliers of the items below. On selection, a Purchase Order will be made against items belonging to the selected Supplier only.",حدد موردًا من الموردين الافتراضيين للعناصر أدناه. عند التحديد ، سيتم إجراء طلب الشراء مقابل العناصر التي تنتمي إلى المورد المحدد فقط.,
 Row #{}: You must select {} serial numbers for item {}.,الصف # {}: يجب تحديد {} الأرقام التسلسلية للعنصر {}.,
+Is Partially Paid Leave,إجازة مدفوعة جزئيا,
+Based On Date Of Joining,حسب تاريخ التعيين,
+"If checked, leave will be granted on the day of joining every month.","عند تحديدها سيتم احتساب الإجازات حسب تاريخ التعيين شهريا",
+Assignment based on,تعيين حسب,
+Grievance Type,أنواع التظلم,
+Employee Grievance,تظلم الموظفين,
+Copy to Clipboard,النسخ إلى الحافظة,
+Total Employees,إجمالي الموظفين,
