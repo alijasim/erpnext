@@ -212,7 +212,7 @@
   {
    "fieldname": "base_amount",
    "fieldtype": "Currency",
-   "label": "Amount (Company Currency)",
+   "label": "Price (Company Currency)",
    "options": "Company:company:default_currency",
    "print_hide": 1,
    "read_only": 1
