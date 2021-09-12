@@ -333,7 +333,7 @@
    "fieldname": "rate",
    "fieldtype": "Currency",
    "in_list_view": 1,
-   "label": "Unit Price",
+   "label": "Rate",
    "oldfieldname": "export_rate",
    "oldfieldtype": "Currency",
    "options": "currency",
@@ -345,7 +345,7 @@
    "fieldname": "amount",
    "fieldtype": "Currency",
    "in_list_view": 1,
-   "label": "Total Price",
+   "label": "Amount",
    "oldfieldname": "export_amount",
    "oldfieldtype": "Currency",
    "options": "currency",
@@ -372,7 +372,7 @@
   {
    "fieldname": "base_amount",
    "fieldtype": "Currency",
-   "label": "Total Price (Company Currency)",
+   "label": "Price (Company Currency)",
    "oldfieldname": "amount",
    "oldfieldtype": "Currency",
    "options": "Company:company:default_currency",
@@ -412,7 +412,7 @@
   {
    "fieldname": "net_amount",
    "fieldtype": "Currency",
-   "label": "Net Total Price",
+   "label": "Net Price",
    "options": "currency",
    "print_hide": 1,
    "read_only": 1
