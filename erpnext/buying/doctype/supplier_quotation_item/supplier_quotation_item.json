@@ -175,7 +175,7 @@
   {
    "fieldname": "price_list_rate",
    "fieldtype": "Currency",
-   "label": "Price List Rate",
+   "label": "Price List Unit Price",
    "options": "currency",
    "print_hide": 1
   },
@@ -226,7 +226,7 @@
   {
    "fieldname": "base_price_list_rate",
    "fieldtype": "Currency",
-   "label": "Price List Rate (Company Currency)",
+   "label": "Price List Unit Price (Company Currency)",
    "options": "Company:company:default_currency",
    "print_hide": 1,
    "read_only": 1
@@ -264,7 +264,7 @@
   {
    "fieldname": "base_rate",
    "fieldtype": "Currency",
-   "label": "Rate (Company Currency)",
+   "label": "Unit Price (Company Currency)",
    "oldfieldname": "purchase_rate",
    "oldfieldtype": "Currency",
    "options": "Company:company:default_currency",
@@ -277,7 +277,7 @@
   {
    "fieldname": "base_amount",
    "fieldtype": "Currency",
-   "label": "Amount (Company Currency)",
+   "label": "Price (Company Currency)",
    "oldfieldname": "amount",
    "oldfieldtype": "Currency",
    "options": "Company:company:default_currency",
@@ -300,14 +300,14 @@
   {
    "fieldname": "net_rate",
    "fieldtype": "Currency",
-   "label": "Net Rate",
+   "label": "Net Unit Price",
    "print_hide": 1,
    "read_only": 1
   },
   {
    "fieldname": "net_amount",
    "fieldtype": "Currency",
-   "label": "Net Amount",
+   "label": "Net Price",
    "options": "currency",
    "print_hide": 1,
    "read_only": 1
@@ -319,7 +319,7 @@
   {
    "fieldname": "base_net_rate",
    "fieldtype": "Currency",
-   "label": "Net Rate (Company Currency)",
+   "label": "Net Unit Price (Company Currency)",
    "options": "Company:company:default_currency",
    "print_hide": 1,
    "read_only": 1
@@ -327,7 +327,7 @@
   {
    "fieldname": "base_net_amount",
    "fieldtype": "Currency",
-   "label": "Net Amount (Company Currency)",
+   "label": "Net Price (Company Currency)",
    "options": "Company:company:default_currency",
    "print_hide": 1,
    "read_only": 1
